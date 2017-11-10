@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+
+ans=$(echo $1)
+echo $ans 
+apass="$(cat /etc/shadow|grep -i $ans |awk -F: '{print $2}')"
+echo "$ans:${apass}" | /usr/sbin/chpasswd -e

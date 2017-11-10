@@ -1,0 +1,45 @@
+<86>Aug 22 11:35:28 groupadd[2966]: new group: name=utmp, GID=22
+<86>Aug 22 11:35:28 groupadd[2970]: new group: name=utempter, GID=35
+<86>Aug 22 11:35:32 useradd[2987]: new group: name=nscd, GID=28
+<86>Aug 22 11:35:32 useradd[2987]: new user: name=nscd, UID=28, GID=28, home=/, shell=/sbin/nologin
+<86>Aug 22 11:35:40 groupadd[3028]: new group: name=floppy, GID=19
+<86>Aug 22 11:35:40 useradd[3032]: new group: name=vcsa, GID=69
+<86>Aug 22 11:35:40 useradd[3032]: new user: name=vcsa, UID=69, GID=69, home=/dev, shell=/sbin/nologin
+<86>Aug 22 11:36:09 groupadd[3273]: new group: name=pcap, GID=77
+<86>Aug 22 11:36:09 useradd[3277]: new user: name=pcap, UID=77, GID=77, home=/var/arpwatch, shell=/sbin/nologin
+<86>Aug 22 11:36:11 groupadd[3294]: new group: name=slocate, GID=21
+<86>Aug 22 11:36:28 groupadd[3336]: new group: name=ntp, GID=38
+<86>Aug 22 11:36:28 useradd[3340]: new user: name=ntp, UID=38, GID=38, home=/etc/ntp, shell=/sbin/nologin
+<86>Aug 22 11:36:30 useradd[3351]: new group: name=dbus, GID=81
+<86>Aug 22 11:36:30 useradd[3351]: new user: name=dbus, UID=81, GID=81, home=/, shell=/sbin/nologin
+<86>Aug 22 11:36:43 groupadd[3377]: new group: name=audio, GID=63
+<86>Aug 22 11:36:45 useradd[3413]: new group: name=avahi, GID=70
+<86>Aug 22 11:36:45 useradd[3413]: new user: name=avahi, UID=70, GID=70, home=/, shell=/sbin/nologin
+<86>Aug 22 11:36:48 groupadd[3444]: new group: name=rpc, GID=32
+<86>Aug 22 11:36:48 useradd[3448]: new user: name=rpc, UID=32, GID=32, home=/, shell=/sbin/nologin
+<86>Aug 22 11:36:56 useradd[3478]: new group: name=mailnull, GID=47
+<86>Aug 22 11:36:56 useradd[3478]: new user: name=mailnull, UID=47, GID=47, home=/var/spool/mqueue, shell=/sbin/nologin
+<86>Aug 22 11:36:56 useradd[3483]: new group: name=smmsp, GID=51
+<86>Aug 22 11:36:56 useradd[3483]: new user: name=smmsp, UID=51, GID=51, home=/var/spool/mqueue, shell=/sbin/nologin
+<21>Aug 22 06:36:57 sendmail[3499]: alias database /etc/aliases rebuilt by root
+<22>Aug 22 06:36:57 sendmail[3499]: /etc/aliases: 76 aliases, longest 10 bytes, 765 bytes total
+<86>Aug 22 11:37:14 useradd[3607]: new group: name=sshd, GID=74
+<86>Aug 22 11:37:14 useradd[3607]: new user: name=sshd, UID=74, GID=74, home=/var/empty/sshd, shell=/sbin/nologin
+<86>Aug 22 11:37:18 groupadd[3641]: new group: name=oprofile, GID=16
+<86>Aug 22 11:37:18 useradd[3646]: new user: name=oprofile, UID=16, GID=16, home=/home/oprofile, shell=/sbin/nologin
+<86>Aug 22 11:37:20 groupadd[3656]: new group: name=screen, GID=84
+<86>Aug 22 11:37:31 useradd[3708]: failed adding user `avahi', data deleted
+<86>Aug 22 11:38:08 useradd[3820]: new group: name=xfs, GID=43
+<86>Aug 22 11:38:08 useradd[3820]: new user: name=xfs, UID=43, GID=43, home=/etc/X11/fs, shell=/sbin/nologin
+<86>Aug 22 11:38:32 groupadd[4641]: new group: name=stapusr, GID=156
+<86>Aug 22 11:38:33 groupadd[4646]: new group: name=stapsys, GID=157
+<86>Aug 22 11:38:33 groupadd[4651]: new group: name=stapdev, GID=158
+<86>Aug 22 11:38:41 useradd[4677]: new group: name=haldaemon, GID=68
+<86>Aug 22 11:38:41 useradd[4677]: new user: name=haldaemon, UID=68, GID=68, home=/, shell=/sbin/nologin
+<86>Aug 22 11:38:46 groupadd[4700]: new group: name=avahi-autoipd, GID=159
+<86>Aug 22 11:38:47 useradd[4705]: new user: name=avahi-autoipd, UID=100, GID=159, home=/var/lib/avahi-autoipd, shell=/sbin/nologin
+<86>Aug 22 11:38:50 useradd[4731]: new group: name=rpcuser, GID=29
+<86>Aug 22 11:38:50 useradd[4731]: new user: name=rpcuser, UID=29, GID=29, home=/var/lib/nfs, shell=/sbin/nologin
+<86>Aug 22 11:38:51 groupadd[4739]: new group: name=nfsnobody, GID=65534
+<86>Aug 22 11:38:51 useradd[4746]: new user: name=nfsnobody, UID=65534, GID=65534, home=/var/lib/nfs, shell=/sbin/nologin
+<86>Aug 22 11:39:04 useradd[5203]: failed adding user `haldaemon', data deleted

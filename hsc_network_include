@@ -1,0 +1,1 @@
+network --device eth4 --bootproto dhcp --hostname=hscuschlux00174.harsco.com

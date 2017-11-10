@@ -1,0 +1,31 @@
+
+Xvnc Free Edition 4.1.2
+Copyright (C) 2002-2005 RealVNC Ltd.
+See http://www.realvnc.com for information on VNC.
+Underlying X server release 70101000, The X.Org Foundation
+
+
+Fri Sep 16 05:15:43 2016
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on port 5902
+ vncext:      Listening for HTTP connections on port 5802
+ vncext:      created VNC server for screen 0
+error opening security policy file /usr/lib64/xserver/SecurityPolicy
+
+Fri Sep 16 05:16:47 2016
+ Connections: accepted: 10.250.8.12::61688
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Fri Sep 16 05:16:50 2016
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Fri Sep 16 05:16:57 2016
+ VNCSConnST:  Client pixel format depth 8 (8bpp) rgb max 3,3,3 shift 4,2,0
+
+Mon Sep 19 00:21:12 2016
+ Connections: closed: 10.250.8.12::61688 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 879
+ SMsgWriter:    ZRLE rects 22083, bytes 2852387
+ SMsgWriter:    raw bytes equivalent 101517178, compression ratio 35.590254
+FreeFontPath: FPE "unix/:7100" refcount is 2, should be 1; fixing.

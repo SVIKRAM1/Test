@@ -1,0 +1,6 @@
+part /boot --size=200 --fstype=ext3
+part swap --size=65536
+part pv.01 --size=20480 --grow
+volgroup myvg pv.01
+logvol / --vgname=myvg --name=rootvol --size=40960
+logvol /u01 --vgname=myvg --name=datavol --size=20480 --grow

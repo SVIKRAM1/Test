@@ -1,0 +1,241 @@
+
+Xvnc Free Edition 4.1.2
+Copyright (C) 2002-2005 RealVNC Ltd.
+See http://www.realvnc.com for information on VNC.
+Underlying X server release 70101000, The X.Org Foundation
+
+
+Tue Aug 29 07:08:44 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on port 5901
+ vncext:      Listening for HTTP connections on port 5801
+ vncext:      created VNC server for screen 0
+error opening security policy file /usr/lib64/xserver/SecurityPolicy
+
+Tue Aug 29 07:09:04 2017
+ Connections: accepted: 10.12.20.1::64579
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue Aug 29 07:09:06 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 8 (8bpp) rgb max 3,3,3 shift 4,2,0
+
+Tue Aug 29 07:09:44 2017
+ Connections: closed: 10.12.20.1::64579 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 92
+ SMsgWriter:    ZRLE rects 353, bytes 19286
+ SMsgWriter:    raw bytes equivalent 1859323, compression ratio 96.407912
+
+Tue Aug 29 08:57:13 2017
+ Connections: accepted: 10.12.20.1::57105
+
+Tue Aug 29 08:57:14 2017
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue Aug 29 08:57:16 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 8 (8bpp) rgb max 3,3,3 shift 4,2,0
+
+Tue Aug 29 08:57:17 2017
+ VNCSConnST:  Client pixel format depth 16 (16bpp) little-endian rgb565
+AUDIT: Tue Aug 29 09:10:22 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 09:11:54 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 09:15:39 2017: 28317 Xvnc: client 4 rejected from local host
+
+Tue Aug 29 09:16:17 2017
+ XserverDesktop: Added unknown keysym 0xffeb to keycode 255
+AUDIT: Tue Aug 29 09:54:35 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:14:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:14:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:14:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:14:21 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:24:15 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:24:16 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:24:16 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 10:24:16 2017: 28317 Xvnc: client 4 rejected from local host
+
+Tue Aug 29 10:31:57 2017
+ Connections: closed: 10.12.20.1::57105 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 873
+ SMsgWriter:    hextile rects 1, bytes 36441
+ SMsgWriter:    ZRLE rects 28561, bytes 2652181
+ SMsgWriter:    raw bytes equivalent 232505838, compression ratio 86.477697
+
+Tue Aug 29 11:04:35 2017
+ Connections: accepted: 10.250.8.136::61473
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue Aug 29 11:04:37 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Tue Aug 29 11:04:38 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) rgb max 3,3,3 shift 4,2,0
+AUDIT: Tue Aug 29 11:04:55 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:04:55 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:04:55 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:04:55 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:04:55 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 5 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:20 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:29 2017: 28317 Xvnc: client 4 rejected from local host
+AUDIT: Tue Aug 29 11:13:29 2017: 28317 Xvnc: client 4 rejected from local host
+
+Tue Aug 29 12:07:30 2017
+ Connections: closed: 10.250.8.136::61473 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 735
+ SMsgWriter:    ZRLE rects 25539, bytes 2133927
+ SMsgWriter:    raw bytes equivalent 95961952, compression ratio 44.969651
+
+Tue Oct  3 01:30:20 2017
+ Connections: accepted: 10.250.8.37::53142
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue Oct  3 01:31:06 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Tue Oct  3 01:31:07 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+AUDIT: Tue Oct  3 01:32:46 2017: 28317 Xvnc: client 4 rejected from local host
+  Auth name: MIT-MAGIC-COOKIE-1 ID: -1
+
+Tue Oct  3 02:06:23 2017
+ Connections: closed: 10.250.8.37::53142 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 2032
+ SMsgWriter:    ZRLE rects 10403, bytes 844128
+ SMsgWriter:    raw bytes equivalent 28409918, compression ratio 33.655936
+
+Tue Oct  3 06:03:45 2017
+ Connections: accepted: 10.250.8.28::54525
+
+Tue Oct  3 06:03:46 2017
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue Oct  3 06:03:49 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Tue Oct  3 08:26:34 2017
+ Connections: accepted: 10.250.8.28::54226
+ SConnection: Client needs protocol version 3.8
+
+Tue Oct  3 08:26:35 2017
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Tue Oct  3 08:32:22 2017
+ Connections: closed: 10.250.8.28::54525 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 933
+ SMsgWriter:    ZRLE rects 5072, bytes 522764
+ SMsgWriter:    raw bytes equivalent 18169963, compression ratio 34.757487
+
+Tue Oct  3 09:38:35 2017
+ Connections: accepted: 10.250.8.28::61620
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Tue Oct  3 09:38:36 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Tue Oct  3 09:39:02 2017
+ Connections: closed: 10.250.8.28::54226 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 6
+ SMsgWriter:    ZRLE rects 18, bytes 9334
+ SMsgWriter:    raw bytes equivalent 799939, compression ratio 85.701628
+
+Tue Oct  3 11:43:47 2017
+ Connections: accepted: 10.250.8.28::50841
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Tue Oct  3 11:43:48 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Tue Oct  3 12:14:44 2017
+ Connections: closed: 10.250.8.28::61620 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 1861
+ SMsgWriter:    ZRLE rects 7818, bytes 621730
+ SMsgWriter:    raw bytes equivalent 23514194, compression ratio 37.820588
+
+Tue Oct  3 14:10:52 2017
+ Connections: accepted: 10.250.8.28::64610
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Tue Oct  3 14:10:53 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Tue Oct  3 15:54:20 2017
+ Connections: closed: 10.250.8.28::64610 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 1
+ SMsgWriter:    ZRLE rects 2, bytes 6923
+ SMsgWriter:    raw bytes equivalent 786584, compression ratio 113.618951
+
+Thu Oct  5 02:26:31 2017
+ Connections: accepted: 10.12.12.24::60257
+ SConnection: Client needs protocol version 3.8
+
+Thu Oct  5 02:26:32 2017
+ SConnection: Client requests security type VncAuth(2)
+
+Thu Oct  5 02:26:37 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+ Connections: closed: 10.250.8.28::50841 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 30
+ SMsgWriter:    ZRLE rects 934, bytes 59019
+ SMsgWriter:    raw bytes equivalent 2513784, compression ratio 42.592792
+
+Thu Oct  5 02:35:35 2017
+ Connections: closed: 10.12.12.24::60257 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 361
+ SMsgWriter:    ZRLE rects 10301, bytes 969500
+ SMsgWriter:    raw bytes equivalent 46118755, compression ratio 47.569629
+
+Thu Oct  5 02:39:43 2017
+ Connections: accepted: 10.12.12.24::60297
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Thu Oct  5 02:39:47 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Thu Oct  5 02:39:48 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Thu Oct  5 02:41:48 2017
+ Connections: closed: 10.12.12.24::60297 (read: Connection reset by peer (104))
+ SMsgWriter:  framebuffer updates 104
+ SMsgWriter:    ZRLE rects 4107, bytes 236775
+ SMsgWriter:    raw bytes equivalent 9379548, compression ratio 39.613760
+
+Thu Oct  5 04:04:22 2017
+ Connections: accepted: 10.12.20.5::50902
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Thu Oct  5 04:04:26 2017
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+
+Thu Oct  5 04:04:27 2017
+ VNCSConnST:  Client pixel format depth 8 (8bpp) colour-map
+
+Thu Oct  5 05:10:40 2017
+ Connections: closed: 10.12.20.5::50902 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 1114
+ SMsgWriter:    ZRLE rects 59605, bytes 3816404
+ SMsgWriter:    raw bytes equivalent 162086424, compression ratio 42.470982

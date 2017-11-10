@@ -1,0 +1,74 @@
+Can't do inplace edit: /etc/sysconfig/rhn/clientCaps.d is not a regular file.
+--2013-08-22 11:39:25--  http://hscuschlux00183.harsco.com/download/package/82f42492311fa1ca735749b192f3f6e628c818fb/0/1/35549/pyOpenSSL-0.6-2.el5.x86_64.rpm
+Resolving hscuschlux00183.harsco.com... 10.10.0.83
+Connecting to hscuschlux00183.harsco.com|10.10.0.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123285 (120K) [application/octet-stream]
+Saving to: `/tmp/rhn_rpms/optional/pyOpenSSL-0.6-2.el5.x86_64.rpm'
+
+     0K .......... .......... .......... .......... .......... 41% 78.0M 0s
+    50K .......... .......... .......... .......... .......... 83%  101M 0s
+   100K .......... ..........                                 100% 1.34M=0.02s
+
+2013-08-22 11:39:25 (7.36 MB/s) - `/tmp/rhn_rpms/optional/pyOpenSSL-0.6-2.el5.x86_64.rpm' saved [123285/123285]
+
+--2013-08-22 11:39:25--  http://hscuschlux00183.harsco.com/download/package/4fcbe33089887769c267c3a6cf5357be5202f1bb/0/1/73077/libxml2-python-2.6.26-2.1.21.el5_9.2.x86_64.rpm
+Reusing existing connection to hscuschlux00183.harsco.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 731864 (715K) [application/octet-stream]
+Saving to: `/tmp/rhn_rpms/optional/libxml2-python-2.6.26-2.1.21.el5_9.2.x86_64.rpm'
+
+     0K .......... .......... .......... .......... ..........  6% 2.91M 0s
+    50K .......... .......... .......... .......... .......... 13% 98.6M 0s
+   100K .......... .......... .......... .......... .......... 20% 93.0M 0s
+   150K .......... .......... .......... .......... .......... 27% 99.6M 0s
+   200K .......... .......... .......... .......... .......... 34% 13.7M 0s
+   250K .......... .......... .......... .......... .......... 41% 93.7M 0s
+   300K .......... .......... .......... .......... .......... 48%  100M 0s
+   350K .......... .......... .......... .......... .......... 55% 75.8M 0s
+   400K .......... .......... .......... .......... .......... 62%  100M 0s
+   450K .......... .......... .......... .......... .......... 69% 96.9M 0s
+   500K .......... .......... .......... .......... .......... 76%  105M 0s
+   550K .......... .......... .......... .......... .......... 83%  104M 0s
+   600K .......... .......... .......... .......... .......... 90%  107M 0s
+   650K .......... .......... .......... .......... .......... 97%  122M 0s
+   700K .......... ....                                       100% 1019K=0.04s
+
+2013-08-22 11:39:25 (17.2 MB/s) - `/tmp/rhn_rpms/optional/libxml2-python-2.6.26-2.1.21.el5_9.2.x86_64.rpm' saved [731864/731864]
+
+--2013-08-22 11:39:25--  http://hscuschlux00183.harsco.com/download/package/461ea2649b1f6200893cdf481b87521be5d880c1/0/1/39254/rhnlib-2.5.22-7.el5.noarch.rpm
+Reusing existing connection to hscuschlux00183.harsco.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 72583 (71K) [application/octet-stream]
+Saving to: `/tmp/rhn_rpms/optional/rhnlib-2.5.22-7.el5.noarch.rpm'
+
+     0K .......... .......... .......... .......... .......... 70%  105M 0s
+    50K .......... ..........                                 100% 1.46M=0.01s
+
+2013-08-22 11:39:26 (4.81 MB/s) - `/tmp/rhn_rpms/optional/rhnlib-2.5.22-7.el5.noarch.rpm' saved [72583/72583]
+
+FINISHED --2013-08-22 11:39:26--
+Downloaded: 3 files, 906K in 0.07s (12.4 MB/s)
+warning: /tmp/rhn_rpms/optional/pyOpenSSL-0.6-2.el5.x86_64.rpm: Header V3 DSA signature: NOKEY, key ID 37017186
+Preparing...                ##################################################
+pyOpenSSL                   ##################################################
+rhnlib                      ##################################################
+libxml2-python              ##################################################
+cp: cannot stat `/tmp/ks-tree-copy/*': No such file or directory
+Stopping system message bus: [60G[[0;31mFAILED[0;39m]
+Starting system message bus: [60G[[0;32m  OK  [0;39m]
+Stopping HAL daemon: [60G[[0;31mFAILED[0;39m]
+Starting HAL daemon: [60G[[0;32m  OK  [0;39m]
+--2013-08-22 11:39:34--  http://hscuschlux00183.harsco.com/pub/RHN-ORG-TRUSTED-SSL-CERT
+Resolving hscuschlux00183.harsco.com... 10.10.0.83
+Connecting to hscuschlux00183.harsco.com|10.10.0.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5615 (5.5K) [text/plain]
+Saving to: `/usr/share/rhn/RHN-ORG-TRUSTED-SSL-CERT'
+
+     0K .....                                                 100%  255M=0s
+
+2013-08-22 11:39:34 (255 MB/s) - `/usr/share/rhn/RHN-ORG-TRUSTED-SSL-CERT' saved [5615/5615]
+
+Can't do inplace edit: /etc/sysconfig/rhn/allowed-actions is not a regular file.
+Can't do inplace edit: /etc/sysconfig/rhn/clientCaps.d is not a regular file.
